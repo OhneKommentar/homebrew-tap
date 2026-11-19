@@ -2,8 +2,8 @@
 class LumiCrew < Formula
   desc "Multi-agent coding CLI: orchestrator, planner, coder, reviewer, tester"
   homepage "https://github.com/OhneKommentar/lumi-crew"
-  url "https://github.com/OhneKommentar/lumi-crew/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "6b5030955a5d17601518dad301c93794074488d5739df025b5f72eedbf626c92"
+  url "https://github.com/OhneKommentar/lumi-crew/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "9165f462f6cd16d131fe75ec85afb7bbab094e82059cc71a424d9270f15b6fc9"
 
   depends_on "python@3.14"
 
